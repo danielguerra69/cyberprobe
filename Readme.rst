@@ -1,4 +1,4 @@
-###### Cyberprobe for [Docker](https://www.docker.io/) Docker
+###### Cyberprobe for [Docker](https://www.docker.io/)
 
 Cyberprobe from debian wheezy
 http://cyberprobe.sourceforge.net/cyberprobe.html#Overview
@@ -9,7 +9,7 @@ http://cyberprobe.sourceforge.net/cyberprobe.html#Overview
 
 ### Image Size
 
-* [![Latest](https://badge.imagelayers.io/danielguerra/cyberprobe.svg)](https://imagelayers.io/?images=danielguerra/cyberprobe:latest 'latest')
+* [![Latest](https://badge.imagelayers.io/danielguerra/cyberprobe.svg)](https://imagelayers.io/?images=danielguerra/cyberprobe:latest 'latest') danielguerra/cyberprobe
 
 ### RUN
 
